@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Ethics</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="ethics.html" class="active">Ethics</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Ethical Considerations in IT</h1>
+        <p>IT professionals must follow ethical guidelines to ensure responsible behavior in a digital world. For example:</p>
+        <ul>
+            <li>Respect privacy and data confidentiality.</li>
+            <li>Avoid bias in data-driven decisions (important for data scientists).</li>
+            <li>Ensure transparency and honesty in software development.</li>
+        </ul>
+        <p>According to the Association for Computing Machinery (ACM), developers should <em>"contribute to society and to human well-being, acknowledging that all people are stakeholders in computing"</em> (ACM Code of Ethics, 2018).</p>
+        <p><strong>Reference:</strong> Association for Computing Machinery. (2018). <em>ACM Code of Ethics and Professional Conduct</em>. https://www.acm.org/code-of-ethics</p>
+    </main>
+</body>
+</html>
